@@ -1,0 +1,8 @@
+.idea/
+*.key
+build/output/
+build/logs/
+build/*/.workspace/
+build/*/log
+bin/
+.gitlab/
